@@ -1,8 +1,7 @@
 # Welcome to Elapsed Lab
 
-> * Keep Run *
-> * Keep Try *
-> * Keep Elapsed Time *
+Keep Run. Keep Try. Keep **Elapsed Time.**
+
 > *Building things, one elapsed second at a time.*
 
 ## 關於我們 About Us
